@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/GrpcCrudSample.Api/bin
+/GrpcCrudSample.Api/obj
+/GrpcCrudSample.Client/bin
+/GrpcCrudSample.Client/obj
