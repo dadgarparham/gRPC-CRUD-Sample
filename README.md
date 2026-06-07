@@ -1,6 +1,3 @@
-# gRPC-CRUD-Sample
-# نمونه پیاده سازی Protocol buffers CRUD با gRPC . این سلوشن شامل دو پروژه یکی برای سرویس api و یک پروژه کنسول به عنوان Consumer است
-
 # GrpcCrudSample - .NET 9 gRPC CRUD Sample
  پروژه نمونه برای پیاده‌سازی CRUD با استفاده از *gRPC* و *Protocol Buffers* در *ASP.NET Core 9* است.
 

@@ -1,0 +1,17 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "GrpcCrudSample.Api\\GrpcCrudSample.Api.csproj",
+        "Action": "Start",
+        "DebugTarget": "http"
+      },
+      {
+        "Path": "GrpcCrudSample.Client\\GrpcCrudSample.Client.csproj",
+        "Action": "Start",
+        "DebugTarget": "GrpcCrudSample.Client"
+      }
+    ]
+  }
+]
