@@ -5,7 +5,7 @@
       {
         "Path": "GrpcCrudSample.Api\\GrpcCrudSample.Api.csproj",
         "Action": "Start",
-        "DebugTarget": "http"
+        "DebugTarget": "https"
       },
       {
         "Path": "GrpcCrudSample.Client\\GrpcCrudSample.Client.csproj",
